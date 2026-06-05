@@ -1,0 +1,5 @@
+
+ayse 123 0
+umut 123 0
+emre 123 0
+elif 123 1
