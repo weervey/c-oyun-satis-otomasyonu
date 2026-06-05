@@ -151,9 +151,19 @@ Bu proje geliştirilirken aşağıdaki konular aktif olarak kullanılmıştır:
 
 Bu bölümde programın çalışmasına ait ekran görüntüleri yer almaktadır.
 
+## Açılış Ekranı
+
+![Açılış](C%20Oyun%20Satis%20Otomasyonu/screenshots/Acilis.png)
+
 ## Ana Menü
 
-![Ana Menu](C%20Oyun%20Satis%20Otomasyonu/screenshots/AnaMenu.png)
+![Ana Menü](C%20Oyun%20Satis%20Otomasyonu/screenshots/AnaMenu.png)
+
+## Kullanıcı Kayıt Ekranı
+
+![Kayıt](C%20Oyun%20Satis%20Otomasyonu/screenshots/kayit.png)
+
+![Kayıt](C%20Oyun%20Satis%20Otomasyonu/screenshots/kayit2.png)
 
 ## Kullanıcı Girişi
 
@@ -161,11 +171,9 @@ Bu bölümde programın çalışmasına ait ekran görüntüleri yer almaktadır
 
 ![Kullanıcı Girişi](C%20Oyun%20Satis%20Otomasyonu/screenshots/giris2.png)
 
-## Kullanıcı Kayıt Ekranı
+## Kullanıcı Profili
 
-![Kayıt](C%20Oyun%20Satis%20Otomasyonu/screenshots/kayit.png)
-
-![Kayıt](C%20Oyun%20Satis%20Otomasyonu/screenshots/kayit2.png)
+![Profil](C%20Oyun%20Satis%20Otomasyonu/screenshots/profil.png)
 
 ## Oyun Listeleme
 
@@ -175,17 +183,9 @@ Bu bölümde programın çalışmasına ait ekran görüntüleri yer almaktadır
 
 ![Oyun Satın Alma](C%20Oyun%20Satis%20Otomasyonu/screenshots/oyunSatinAlma.png)
 
-## Kullanıcı Profili
-
-![Profil](C%20Oyun%20Satis%20Otomasyonu/screenshots/profil.png)
-
 ## Yönetici Paneli
 
 ![Yönetici Paneli](C%20Oyun%20Satis%20Otomasyonu/screenshots/yoneticiPanel.png)
-
-## Açılış Ekranı
-
-![Açılış](C%20Oyun%20Satis%20Otomasyonu/screenshots/Acilis.png)
 
 ---
 
